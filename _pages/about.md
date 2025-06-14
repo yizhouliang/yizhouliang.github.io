@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc research associate at the [School of Mathematics](https://maths.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/).
+I'm a postdoctoral research associate at the [School of Mathematics](https://maths.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/).
 
-I obtained my Ph.D. at the [Peking Unviersity](https://english.pku.edu.cn/) in 2022. I worked as a Humboldt fellow at the [University of Augsburg](https://www.uni-augsburg.de/en/) in 2022-2024.
+I received my Ph.D. from [Peking University](https://english.pku.edu.cn/) in 2022. I worked as a Humboldt Fellow at the [University of Augsburg](https://www.uni-augsburg.de/en/) from 2022 to 2024.
 
-My research focuses on the numerical analysis of partial differential equations. Particularly, most of my work is on the finite element exterior calculus (FEEC) with applications in magnetohydrodynamics and numerical relativity. I'm also interested of numerical analysis for eigenvalue problems, such as the Gross–Pitaevskii eigenvalue problem and biharmonic eigenvalue problem.
+My research focuses on the numerical analysis of partial differential equations. In particular, most of my work is on finite element exterior calculus (FEEC) with applications in magnetohydrodynamics and numerical relativity. I'm also interested in numerical analysis of eigenvalue problems, such as the Gross–Pitaevskii and biharmonic eigenvalue problems.
 
 You can find my CV [here](../assets/CV_YizhouLiang.pdf)
 
