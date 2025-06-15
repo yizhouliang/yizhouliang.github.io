@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+Position
+======
+* School of Mathematics, The University of Edinburgh, Edinburgh, UK
+   * Postdoctoral Research Associate, March 2025 - present
+* Institute of Mathematics, University of Augsburg, Augsburg, Germany
+   * Postdoctoral Research Associate, December 2024 - February 2025
+   * Humboldt Fellow, December 2022 - November 2024
+* School of Mathematical Sciences, Peking University, Beijing, China
+   * Visiting Scholar, September 2022 to October 2024
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Peking University, China
+   * Ph.D. Computational Mathematics, July 2022
+   * Advisor: Professor Jun Hu
+* Peking University, China
+   * B.S. Computational Mathematics, July 2016
 
-Work experience
+HONORS/AWARDS
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Humboldt Research Fellowship for Postdocs, 2022
+* Excellent Doctoral Dissertation Award of Peking University, 2022
+* Best paper award of Beijing Tianjin Hebei computational mathematics academic exchange, 2021
+* Second Prize of EASIAM Student Paper Award, 2021
+* President Scholarship of Peking University, 2021
+* College Scholarship in School of Mathematical Sciences of Peking University, 2020
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
