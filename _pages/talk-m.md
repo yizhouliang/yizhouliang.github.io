@@ -9,29 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Position
+Conference/Workshop talks
 ======
-* School of Mathematics, The University of Edinburgh, Edinburgh, UK
-   * Postdoctoral Research Associate, March 2025 - present
-* Institute of Mathematics, University of Augsburg, Augsburg, Germany
-   * Postdoctoral Research Associate, December 2024 - February 2025
-   * Humboldt Fellow, December 2022 - November 2024
-* School of Mathematical Sciences, Peking University, Beijing, China
-   * Visiting Scholar, September 2022 to October 2024
-
-Education
-======
-* Peking University, China
-   * Ph.D. Computational Mathematics, July 2022
-   * Advisor: Professor Jun Hu
-* Peking University, China
-   * B.S. Computational Mathematics, July 2016
-
-HONORS/AWARDS
-======
-* Humboldt Research Fellowship for Postdocs, 2022
-* Excellent Doctoral Dissertation Award of Peking University, 2022
-* Best paper award of Beijing Tianjin Hebei computational mathematics academic exchange, 2021
-* Second Prize of EASIAM Student Paper Award, 2021
-* President Scholarship of Peking University, 2021
-* College Scholarship in School of Mathematical Sciences of Peking University, 2020
+* The 10th International Conference on Computational Methods in Applied Mathematics, Bonn, June 2024.
+* The 10th International Congress on Industrial and Applied Mathematics, Tokyo, August 2023
+* The 29th Biennial Numerical Analysis Conference, Glasgow, June 2023
+* European Finite Element Fair, The Netherlands, May 2023
+* The 10th Finite Element Conference, Urumqi, July 2021
+* The 18th Annual Meeting of the China Society for Industrial and Applied Mathematics(CSIAM 2020), Workshop on nonstandard finite element method for nonlinear problems, Changsha, November 2020
+* The 3th Beijing Graduate Student forum on Applied and Computational Math, Beijing, October 2020
