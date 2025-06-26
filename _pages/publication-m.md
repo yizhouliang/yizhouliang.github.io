@@ -20,6 +20,7 @@ Peer-reviewed papers
 
 Preprints
 ======
+* M. Hauck, Y. Liang, A hybrid high-order method for the the Gross-Pitaevskii eigenvalue problem. [[arxiv:2506.19944]](https://doi.org/10.48550/arXiv.2506.19944)
 * Y. Liang, and N. T. Tran, A hybrid high-order method for the biharmonic problem.[[arxiv: 2504.16608]](https://doi.org/10.48550/arXiv.2504.16608)
 * M. Hauck, Y. Liang, and D. Peterseim. Positivity preserving finite element method for the Gross-Pitaevskii ground state: discrete uniqueness and global convergence.[[arxiv: 2405.17090]](https://doi.org/10.48550/arXiv.2405.17090)
 * J. Hu, Y. Liang, and T. Lin, Local Bounded Commuting Projection Operators for Discrete Gradgrad Complexes.[[arXiv:2304.11566]](https://doi.org/10.48550/arXiv.2304.11566)
