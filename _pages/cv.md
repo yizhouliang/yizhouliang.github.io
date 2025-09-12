@@ -11,8 +11,10 @@ redirect_from:
 
 Position
 ======
+* Mathematical Institute, University of Oxford, Oxford, UK
+   * Postdoctoral Research Associate, September 2025 - present
 * School of Mathematics, The University of Edinburgh, Edinburgh, UK
-   * Postdoctoral Research Associate, March 2025 - present
+   * Postdoctoral Research Associate, March 2025 - August 2025
 * Institute of Mathematics, University of Augsburg, Augsburg, Germany
    * Postdoctoral Research Associate, December 2024 - February 2025
    * Humboldt Fellow, December 2022 - November 2024
