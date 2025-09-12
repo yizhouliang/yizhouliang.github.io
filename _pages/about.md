@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral research associate at the [School of Mathematics](https://maths.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/).
+I'm a postdoctoral research associate at the [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/).
 
 I received my Ph.D. from [Peking University](https://english.pku.edu.cn/) in 2022. I worked as a Humboldt Fellow at the [University of Augsburg](https://www.uni-augsburg.de/en/) from 2022 to 2024.
 
