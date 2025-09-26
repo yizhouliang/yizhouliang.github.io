@@ -15,5 +15,5 @@ My research focuses on the numerical analysis of partial differential equations.
 
 You can find my CV [here](../assets/CV_YizhouLiang.pdf)
 
-I moved to Oxford in September, 2025. Please contact me using the address [a491221749@gmail.com](mailto:a491221749@gmail.com).
+I moved to Oxford in September, 2025.
 
