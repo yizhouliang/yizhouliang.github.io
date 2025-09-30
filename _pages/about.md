@@ -15,5 +15,4 @@ My research focuses on the numerical analysis of partial differential equations.
 
 You can find my CV [here](../assets/CV_YizhouLiang.pdf)
 
-I moved to Oxford in September, 2025.
 
