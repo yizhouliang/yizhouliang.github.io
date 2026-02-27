@@ -15,7 +15,7 @@ Colloquium/Seminar talks
 
 Conference/Workshop talks
 ======
-* TSIMF Workshop on Finite Element Tensor Calculus, Sanya, China, January, 2026
+* TSIMF Workshop on Finite Element Tensor Calculus, Sanya, China, January 2026
 * The 14th Annual Meeting of Computational Mathematics of Chinese Mathematical Society, Changsha, China, August 2025
 * 11th PKU Workshop on Numerical Methods for PDEs, Beijing, China, July 2025
 * The 10th International Conference on Computational Methods in Applied Mathematics, Bonn, Germany, June 2024
