@@ -11,7 +11,7 @@ redirect_from:
 
 Peer-reviewed papers
 ======
-* M. Hauck, Y. Liang, and D. Peterseim. Positivity preserving finite element method for the Gross-Pitaevskii ground state: discrete uniqueness and global convergence. Accepted by Numerische Mathematik.[[arxiv: 2405.17090]](https://doi.org/10.48550/arXiv.2405.17090)
+* M. Hauck, Y. Liang, and D. Peterseim. Positivity preserving finite element method for the Gross–Pitaevskii ground state: discrete uniqueness and global convergence. Numer. Math. (2026). [[doi]](https://doi.org/10.1007/s00211-026-01535-5)
 * M. Hauck, Y. Liang, A hybrid high-order method for the the Gross-Pitaevskii eigenvalue problem. IMA Journal of Numerical Analysis, draf126.[[doi]](https://doi.org/10.1093/imanum/draf126).
 * D. Gallistl, M. Hauck, Y. Liang, and D. Peterseim. Mixed finite elements for the Gross-Pitaevskii eigenvalue problem: a priori error analysis andguaranteed lower energy bound. IMA Journal of Numerical Analysis, Volume 45, Issue 3, May 2025, Pages 1320–1346.[[doi]](https://doi.org/10.1093/imanum/drae048)
 * J. Hu, Y. Liang, R. Ma and M. Zhang. A family of conforming finite element divdiv complexes on cuboid meshes. Numer. Math. 156, 1603–1638 (2024).[[doi]](https://doi.org/10.1007/s00211-024-01418-7)
