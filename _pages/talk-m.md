@@ -15,7 +15,7 @@ Colloquium/Seminar talks
 
 Conference/Workshop talks
 ======
-* ESI Thematic Programme: Differential Complexes: Theory, Discretization, and Applications, Vienna, Austria, April -- MAy 2026[[slides]](../files/sildes_ESI_2026.pdf)
+* ESI Thematic Programme: Differential Complexes: Theory, Discretization, and Applications, Vienna, Austria, April -- MAy 2026[[slides]](../files/slides_ESI_2026.pdf)
 * TSIMF Workshop on Finite Element Tensor Calculus, Sanya, China, January 2026
 * The 14th Annual Meeting of Computational Mathematics of Chinese Mathematical Society, Changsha, China, August 2025
 * 11th PKU Workshop on Numerical Methods for PDEs, Beijing, China, July 2025
